@@ -1,4 +1,4 @@
-module github.com/SpasZahariev/go-play-around-with-it
+module github.com/SpasZahariev/go-play-around-with-it/db-book-management-system
 
 go 1.19
 
